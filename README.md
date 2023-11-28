@@ -1,1 +1,1 @@
-# wintask-full
+# wintask-app
